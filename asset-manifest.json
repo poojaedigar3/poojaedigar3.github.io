@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ancestry-fed-test/static/css/main.b100e6da.chunk.css",
+    "main.js": "/ancestry-fed-test/static/js/main.e1ee2dc1.chunk.js",
+    "main.js.map": "/ancestry-fed-test/static/js/main.e1ee2dc1.chunk.js.map",
+    "runtime-main.js": "/ancestry-fed-test/static/js/runtime-main.76a2630c.js",
+    "runtime-main.js.map": "/ancestry-fed-test/static/js/runtime-main.76a2630c.js.map",
+    "static/js/2.da469fb9.chunk.js": "/ancestry-fed-test/static/js/2.da469fb9.chunk.js",
+    "static/js/2.da469fb9.chunk.js.map": "/ancestry-fed-test/static/js/2.da469fb9.chunk.js.map",
+    "index.html": "/ancestry-fed-test/index.html",
+    "precache-manifest.2bb9f07f488ea38704604ba039f57a47.js": "/ancestry-fed-test/precache-manifest.2bb9f07f488ea38704604ba039f57a47.js",
+    "service-worker.js": "/ancestry-fed-test/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/ancestry-fed-test/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/ancestry-fed-test/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76a2630c.js",
+    "static/js/2.da469fb9.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.e1ee2dc1.chunk.js"
+  ]
+}
